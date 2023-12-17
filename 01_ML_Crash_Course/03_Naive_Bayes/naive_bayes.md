@@ -1,4 +1,5 @@
 # 3 - Naive Bayes
+
 In the real world, naive baes are young, inexperienced lovers.
 
 In the machine-learning world, naive bayes are probabilistic classification 

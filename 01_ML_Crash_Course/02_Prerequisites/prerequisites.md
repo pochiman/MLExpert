@@ -1,4 +1,5 @@
 # 2 - Prerequisites
+
 We know, we know, you're eager to get out there and build some cool sentient 
 systems. However, like all fun things in life, machine learning is preceded by 
 a good amount of human learning.

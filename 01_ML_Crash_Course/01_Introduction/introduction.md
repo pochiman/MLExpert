@@ -2,6 +2,7 @@ The fundamental concepts to dive into the world of machine learning.
 The foundational knowledge you need to dive into machine learning.
 
 # 1 - Introduction
+
 Welcome to our Machine Learning Crash Course! 
 
 The purpose of this course is simple and singular in nature: to equip you with the 

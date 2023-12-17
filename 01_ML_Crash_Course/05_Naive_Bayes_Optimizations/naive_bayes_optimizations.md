@@ -1,4 +1,5 @@
 # 5 - Naive Bayes Optimizations
+
 Another section on Naive Bayes? 
 
 Yes! As it turns out, there is more to this model than meets the eye. So stick 

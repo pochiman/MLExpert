@@ -1,4 +1,5 @@
 # 6 - K Nearest Neighbors
+
 "You are the average of the 5 people you spend the most time with." 
 
 While this statement might sound a bit reductive, if not slightly offensive, the 
