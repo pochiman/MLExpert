@@ -1,3 +1,5 @@
+# Supervised Learning
+
 # 6 - K Nearest Neighbors
 
 "You are the average of the 5 people you spend the most time with." 

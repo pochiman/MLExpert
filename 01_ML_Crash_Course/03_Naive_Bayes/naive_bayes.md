@@ -1,3 +1,5 @@
+# Supervised Learning
+
 # 3 - Naive Bayes
 
 In the real world, naive baes are young, inexperienced lovers.

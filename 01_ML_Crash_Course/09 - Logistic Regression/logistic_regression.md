@@ -1,3 +1,5 @@
+# Supervised Learning
+
 # 9 - Logistic Regression
 
 Where linear regression is used to predict outputs that can take on an infinite 

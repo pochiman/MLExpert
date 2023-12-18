@@ -1,3 +1,5 @@
+# Supervised Learning
+
 # 5 - Naive Bayes Optimizations
 
 Another section on Naive Bayes? 

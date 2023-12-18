@@ -1,3 +1,5 @@
+# Unsupervised Learning
+
 # 12 - Singular Value Decomposition
 
 As you've probably noticed, we like to keep these blurbs light and cheeky. Unfortunately, despite our best attempts, we simply could not find humor in "singular value decomposition." So here's a cute ASCII bear instead:  

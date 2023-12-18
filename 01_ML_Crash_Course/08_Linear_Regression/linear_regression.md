@@ -1,3 +1,5 @@
+# Supervised Learning
+
 # 8 - Linear Regression
 
 You know that topic the professor spent half the semester talking about in your 

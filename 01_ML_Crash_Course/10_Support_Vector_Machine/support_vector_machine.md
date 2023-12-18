@@ -1,3 +1,5 @@
+# Supervised Learning
+
 # 10 - Support Vector Machine
 
 Why do support vectors always look sad?
