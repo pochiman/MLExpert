@@ -23,4 +23,3 @@ def get_dict_of_nonzero_cells(matrix):
             if matrix[i][j] != 0:
                 dict_of_nonzero_cells[(i, j)] = matrix[i][j]
     return dict_of_nonzero_cells
-
