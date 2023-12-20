@@ -1,6 +1,5 @@
 # K Nearest Neighbors
 
-
   Use the k-nearest neighbors algorithm to return the `k` nearest
   neighbors of the provided features.
 
