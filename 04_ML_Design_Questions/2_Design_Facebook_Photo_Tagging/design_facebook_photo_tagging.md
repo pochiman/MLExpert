@@ -6,7 +6,7 @@ Many systems design questions are intentionally left very vague and are literall
 
 We've laid out some of these questions below; their answers should give you some guidance on the problem. Before looking at them, we encourage you to take few minutes to think about what questions you'd ask in a real interview.
 
-Clarifying Questions To Ask
+# Clarifying Questions To Ask
 
 # [Question_1]
 Q: When you say reduce the effort of tagging people in photos upon upload, do you mean automatically tagging or just presenting suggestions on which users should be tagged in the photo?
