@@ -160,4 +160,5 @@ What if we wanted to add deep learning capabilities to this platform?
 We would add whatever libraries we want to support (Tensorflow, PyTorch, or MXNet) to the Jupyter Notebook container images by default. We would also ensure those packages are included in the Training Cluster as well as the Inference Service. For the Training Cluster it will likely be beneficial to add support for training models on GPUs or even multiple GPUs. In the case that we have very large neural networks, we should consider using parameter server topology to implement large-scale distributed training. The Inference Service's online model hosting will likely still use CPUs but will benefit from a larger amount of RAM in the case of large models. Batch inferences will benefit from GPUs.
 
 # 9. System Diagram
-[System Diagram](04_ML_Design_Questions/1_Design_A_Machine_Learning_Platform/ml_platform.png)
+
+[System Diagram](/Users/pocholo/Desktop/projects/MLExpert/04_ML_Design_Questions/1_Design_A_Machine_Learning_Platform/ml_platform.png)
