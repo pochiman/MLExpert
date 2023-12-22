@@ -1,4 +1,4 @@
-# 5 Machine Learning Design Questions
+# ML Design Questions
 
 Our collection of questions to crush the machine learning design interviews.
 
